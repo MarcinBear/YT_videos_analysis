@@ -8,3 +8,6 @@ All analysis are made in jupyter notebook (graphs should be easily visible via g
 
 Code needed for dumping the json file is based on great yt API tutorials made by "Python Engineer".
 https://www.youtube.com/playlist?list=PLqnslRFeH2UpC8EqlF2aax9A-VLiPDwxP
+
+---
+*data as of 28/07/2021*
