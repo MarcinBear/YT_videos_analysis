@@ -1,4 +1,4 @@
-# this code is based on great yt API tutorials made from "Python Engineer"
+# this code is based on great yt API tutorials made by "Python Engineer"
 # https://www.youtube.com/playlist?list=PLqnslRFeH2UpC8EqlF2aax9A-VLiPDwxP
 
 import requests
