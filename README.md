@@ -25,4 +25,4 @@ My results
 ![plot6_error](images/newplot (14).png "plot6")
 
 ---
-*data as of 28/07/2021*
+*data as of 28/07/2021* 
