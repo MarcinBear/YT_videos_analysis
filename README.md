@@ -12,7 +12,7 @@ https://www.youtube.com/playlist?list=PLqnslRFeH2UpC8EqlF2aax9A-VLiPDwxP
 ---
 ✨ My results ✨
 
-![plot1_error](images/newplot1.png "plot1")
+![plot1_error](images/newplot1.svg "plot1")
 
 ![plot2_error](images/newplot2.png "plot2")
 
