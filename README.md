@@ -10,7 +10,7 @@ Code needed for dumping the json file is based on great yt API tutorials made by
 https://www.youtube.com/playlist?list=PLqnslRFeH2UpC8EqlF2aax9A-VLiPDwxP
 
 ---
-My results
+✨ My results ✨
 
 ![plot1_error](images/newplot1.png "plot1")
 
