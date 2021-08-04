@@ -14,15 +14,15 @@ https://www.youtube.com/playlist?list=PLqnslRFeH2UpC8EqlF2aax9A-VLiPDwxP
 
 ![plot1_error](images/newplot1.svg "plot1")
 
-![plot2_error](images/newplot2.png "plot2")
+![plot2_error](images/newplot2.svg "plot2")
 
-![plot3_error](images/newplot3.png "plot3")
+![plot3_error](images/newplot3.svg "plot3")
 
-![plot4_error](images/newplot4.png "plot4")
+![plot4_error](images/newplot4.svg "plot4")
 
-![plot5_error](images/newplot5.png "plot5")
+![plot5_error](images/newplot5.svg "plot5")
 
-![plot6_error](images/newplot6.png "plot6")
+![plot6_error](images/newplot6.svg "plot6")
 
 ---
 *data as of 28/07/2021* 
